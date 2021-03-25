@@ -1,0 +1,77 @@
+Problema 01
+Neamt -> Iasi -> Vaslui -> Urziceni -> Bucharest
+cost: 406
+
+real	0m0.064s
+user	0m0.053s
+sys	0m0.012s
+
+Problema 02
+Eforie -> Hirsova -> Urziceni -> Bucharest
+cost: 269
+
+real	0m0.063s
+user	0m0.052s
+sys	0m0.012s
+
+Problema 03
+Lugoj -> Mehadia -> Drobeta -> Craiova -> Pitesti -> Bucharest
+cost: 504
+
+real	0m0.038s
+user	0m0.038s
+sys	0m0.000s
+
+Problema 04
+Arad -> Sibiu -> Rimnicu Vilcea -> Pitesti -> Bucharest
+cost: 418
+
+real	0m0.043s
+user	0m0.038s
+sys	0m0.005s
+Problema 05
+Vaslui -> Urziceni -> Bucharest
+cost: 227
+
+real	0m0.042s
+user	0m0.037s
+sys	0m0.005s
+
+Problema 06
+Oradea -> Sibiu -> Rimnicu Vilcea -> Pitesti -> Bucharest
+cost: 429
+
+real	0m0.187s
+user	0m0.054s
+sys	0m0.015s
+
+Problema 07
+Iasi -> Vaslui -> Urziceni -> Bucharest
+cost: 319
+
+real	0m0.043s
+user	0m0.031s
+sys	0m0.012s
+
+Problema 08
+Timisoara -> Arad -> Sibiu -> Rimnicu Vilcea -> Pitesti -> Bucharest
+cost: 536
+
+real	0m0.065s
+user	0m0.061s
+sys	0m0.005s
+
+Problema 09
+Zerind -> Arad -> Sibiu -> Rimnicu Vilcea -> Pitesti -> Bucharest
+cost: 493
+
+real	0m0.042s
+user	0m0.038s
+sys	0m0.004s
+Problema 10
+Hirsova -> Urziceni -> Bucharest
+cost: 183
+
+real	0m0.064s
+user	0m0.048s
+sys	0m0.016s
